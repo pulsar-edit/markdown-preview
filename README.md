@@ -1,3 +1,5 @@
+# This repo is now Archived under Pulsar-Edit, as it is now bundled into the core editor [PR#374](https://github.com/pulsar-edit/pulsar/pull/374)
+
 # Markdown Preview package
 
 Show the rendered HTML markdown to the right of the current editor using <kbd>ctrl-shift-m</kbd>.
